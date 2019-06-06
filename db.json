@@ -3,14 +3,6 @@
     "name": "Robb Morehall",
     "place": "Philadelphia",
     "age": "rmorehall0@cafepress.com",
-    "image": [
-        {
-            "id": 1,
-            "name": "http://dummyimage.com/188x133.png/ff4444/ffffff"
-        },
-        {
-            "id": 2,
-            "name": "http://dummyimage.com/209x233.jpg/dddddd/000000"
-        }
-    ]
 }
+
+
