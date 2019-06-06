@@ -1,1 +1,19 @@
-{}
+{
+    "id": "1",
+    "name": "jey",
+    "age": "1",
+    "place": [
+        "mannar",
+        "pesalai"
+    ],
+    "images": [
+        {
+            "id": "1",
+            "name": "img 1"
+        },
+        {
+            "id": "2",
+            "name": "img 2"
+        }
+    ]
+}
