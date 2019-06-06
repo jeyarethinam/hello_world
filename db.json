@@ -1,188 +1,21 @@
 [
     {
         "id": 1,
-        "name": "Ephrayim Pudge",
-        "age": 24,
+        "name": "jey",
+        "age": 19,
         "place": [
-            {},
-            {},
-            {},
-            {},
-            {}
+            "mannar",
+            "pesalai"
         ],
-        "image": [
-            {},
-            {},
-            {},
-            {},
-            {}
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Edouard Weyland",
-        "age": 25,
-        "place": [
-            {},
-            {},
-            {},
-            {},
-            {}
-        ],
-        "image": [
-            {},
-            {},
-            {},
-            {},
-            {}
-        ]
-    },
-    {
-        "id": 3,
-        "name": "Kylie Castagnier",
-        "age": 31,
-        "place": [
-            {},
-            {},
-            {},
-            {}
-        ],
-        "image": [
-            {},
-            {},
-            {},
-            {},
-            {}
-        ]
-    },
-    {
-        "id": 4,
-        "name": "Finn Openshaw",
-        "age": 30,
-        "place": [
-            {},
-            {},
-            {},
-            {}
-        ],
-        "image": [
-            {},
-            {},
-            {},
-            {},
-            {}
-        ]
-    },
-    {
-        "id": 5,
-        "name": "Elsa Brawley",
-        "age": 31,
-        "place": [
-            {},
-            {},
-            {},
-            {},
-            {}
-        ],
-        "image": [
-            {},
-            {},
-            {},
-            {},
-            {}
-        ]
-    },
-    {
-        "id": 6,
-        "name": "Stace Stovold",
-        "age": 32,
-        "place": [
-            {},
-            {},
-            {},
-            {},
-            {}
-        ],
-        "image": [
-            {},
-            {},
-            {},
-            {},
-            {}
-        ]
-    },
-    {
-        "id": 7,
-        "name": "Kit MacConnulty",
-        "age": 28,
-        "place": [
-            {},
-            {},
-            {},
-            {},
-            {}
-        ],
-        "image": [
-            {},
-            {},
-            {},
-            {},
-            {}
-        ]
-    },
-    {
-        "id": 8,
-        "name": "Cyrille Binyon",
-        "age": 23,
-        "place": [
-            {},
-            {},
-            {},
-            {}
-        ],
-        "image": [
-            {},
-            {},
-            {},
-            {},
-            {}
-        ]
-    },
-    {
-        "id": 9,
-        "name": "Sydel Cana",
-        "age": 23,
-        "place": [
-            {},
-            {},
-            {},
-            {},
-            {}
-        ],
-        "image": [
-            {},
-            {},
-            {},
-            {},
-            {}
-        ]
-    },
-    {
-        "id": 10,
-        "name": "Micheil Passfield",
-        "age": 25,
-        "place": [
-            {},
-            {},
-            {},
-            {}
-        ],
-        "image": [
-            {},
-            {},
-            {},
-            {},
-            {}
+        "images": [
+            {
+                "id": 1,
+                "name": "img 1"
+            },
+            {
+                "id": 2,
+                "name": "img 2"
+            }
         ]
     }
 ]
