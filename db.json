@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Robb Morehall",
-            "place": "Philadelphia",
+            "place": ["Philadelphia","New York"],
             "age": 22,
             "image": [
                 {
@@ -19,7 +19,7 @@
         {
             "id": 1,
             "name": "Robb Morehall",
-            "place": "Philadelphia",
+            "place":["Philadelphia","New York"],
             "age": 23,
             "image": [
                 {
@@ -35,7 +35,7 @@
         {
             "id": 1,
             "name": "Robb Morehall",
-            "place": "Philadelphia",
+            "place": ["Philadelphia","New York"],
             "age": 22,
             "image": [
                 {
